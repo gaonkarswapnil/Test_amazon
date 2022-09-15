@@ -11,7 +11,7 @@ pip install pytest
 
 ```
 
-## Build Setup
+## To run project
 ```bash
 # To run project
 pytest -s
