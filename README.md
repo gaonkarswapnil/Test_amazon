@@ -1,5 +1,5 @@
 # Test_amazon
-> Test 
+> Test case for Amazon
 
 ## Build Setup
 ```bash
